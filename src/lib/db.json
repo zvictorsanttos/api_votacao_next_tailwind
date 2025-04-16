@@ -1,0 +1,129 @@
+{
+  "pautas": [
+    {
+      "id": "ddf9fc50-ac12-4764-96fc-7a90346d34dd",
+      "titulo": "teste",
+      "descricao": "teste",
+      "criadaEm": "2025-04-08T04:44:50.438Z"
+    },
+    {
+      "id": "d2b3c24c-868e-413a-aeba-107480672bbd",
+      "titulo": "teste erro",
+      "descricao": "teste erro",
+      "criadaEm": "2025-04-08T04:49:52.409Z"
+    },
+    {
+      "id": "a1b0c1ed-1fe0-4119-9e5b-bd3140f4f0d5",
+      "titulo": "teste",
+      "descricao": "testeteste",
+      "criadaEm": "2025-04-08T11:55:27.614Z"
+    },
+    {
+      "id": "574bfe9a-0944-4595-a1f4-04892a2b4e2e",
+      "titulo": "teste",
+      "descricao": "teste",
+      "criadaEm": "2025-04-08T11:58:04.299Z"
+    },
+    {
+      "id": "e4cc93b2-d8bb-4cf6-b1f4-728e3805c304",
+      "titulo": "teste",
+      "descricao": "teste",
+      "criadaEm": "2025-04-08T12:33:52.724Z"
+    },
+    {
+      "id": "50515621-17e4-4731-880e-ec4ee5618fba",
+      "titulo": "teste qa",
+      "descricao": "teste",
+      "criadaEm": "2025-04-08T12:49:45.759Z"
+    }
+  ],
+  "sessoes": [
+    {
+      "id": "d1980fcc-d4f8-4a80-904d-dbc781f058d0",
+      "pautaId": "ddf9fc50-ac12-4764-96fc-7a90346d34dd",
+      "abertaEm": "2025-04-08T04:44:55.795Z",
+      "encerraEm": "2025-04-08T04:45:55.795Z"
+    },
+    {
+      "id": "27f66e5a-cbcd-473d-bafb-c32af34aa3be",
+      "pautaId": "d2b3c24c-868e-413a-aeba-107480672bbd",
+      "abertaEm": "2025-04-08T04:49:54.322Z",
+      "encerraEm": "2025-04-08T04:50:54.322Z"
+    },
+    {
+      "id": "41dd204d-70f9-4198-9110-c5dcb85f090e",
+      "pautaId": "a1b0c1ed-1fe0-4119-9e5b-bd3140f4f0d5",
+      "abertaEm": "2025-04-08T11:55:29.911Z",
+      "encerraEm": "2025-04-08T11:56:29.911Z"
+    },
+    {
+      "id": "d37f86da-f333-4962-8797-fa5d5f6d614b",
+      "pautaId": "574bfe9a-0944-4595-a1f4-04892a2b4e2e",
+      "abertaEm": "2025-04-08T11:58:05.778Z",
+      "encerraEm": "2025-04-08T11:59:05.778Z"
+    },
+    {
+      "id": "065d6ffd-704a-4d1b-9229-c985d99b0684",
+      "pautaId": "e4cc93b2-d8bb-4cf6-b1f4-728e3805c304",
+      "abertaEm": "2025-04-08T12:33:54.113Z",
+      "encerraEm": "2025-04-08T12:34:54.113Z"
+    },
+    {
+      "id": "1a7993e5-5cea-47ba-9369-5f34d5f9b623",
+      "pautaId": "50515621-17e4-4731-880e-ec4ee5618fba",
+      "abertaEm": "2025-04-08T12:49:49.663Z",
+      "encerraEm": "2025-04-08T12:50:49.663Z"
+    }
+  ],
+  "votos": [
+    {
+      "id": "f5b8bae6-9890-4d6f-9c72-7c1afc7bedf0",
+      "pautaId": "ddf9fc50-ac12-4764-96fc-7a90346d34dd",
+      "cpf": "13066062414",
+      "voto": "SIM",
+      "associadoId": ""
+    },
+    {
+      "id": "d195b39f-1cdb-4eb0-bb7c-d35507e0d9b5",
+      "pautaId": "d2b3c24c-868e-413a-aeba-107480672bbd",
+      "cpf": "13066062414",
+      "voto": "SIM",
+      "associadoId": ""
+    },
+    {
+      "id": "cfff43bc-6e55-4d5d-be09-89842d710bf6",
+      "pautaId": "a1b0c1ed-1fe0-4119-9e5b-bd3140f4f0d5",
+      "cpf": "13066062414",
+      "voto": "SIM",
+      "associadoId": ""
+    },
+    {
+      "id": "65c93ea3-a03d-40c5-b977-8db284a060bd",
+      "pautaId": "574bfe9a-0944-4595-a1f4-04892a2b4e2e",
+      "cpf": "13066062414",
+      "voto": "SIM",
+      "associadoId": ""
+    },
+    {
+      "id": "cf06b7e8-d360-4849-ba42-9f22752f1048",
+      "pautaId": "574bfe9a-0944-4595-a1f4-04892a2b4e2e",
+      "cpf": "17710464068",
+      "voto": "NAO",
+      "associadoId": ""
+    },
+    {
+      "id": "a4d50275-586f-4e52-94cb-67ced27c876d",
+      "pautaId": "e4cc93b2-d8bb-4cf6-b1f4-728e3805c304",
+      "cpf": "13066062414",
+      "voto": "SIM",
+      "associadoId": ""
+    },
+    {
+      "id": "0ff7f388-b867-4c87-b57c-73727afcd707",
+      "pautaId": "50515621-17e4-4731-880e-ec4ee5618fba",
+      "cpf": "13066062414",
+      "voto": "SIM",
+      "associadoId": ""
+    }
+  ]
+}
