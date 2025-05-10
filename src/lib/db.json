@@ -35,6 +35,18 @@
       "titulo": "teste qa",
       "descricao": "teste",
       "criadaEm": "2025-04-08T12:49:45.759Z"
+    },
+    {
+      "id": "edb3ea24-06f8-48f8-8913-b50897e70b80",
+      "titulo": "Teste",
+      "descricao": "teste",
+      "criadaEm": "2025-04-17T18:34:15.342Z"
+    },
+    {
+      "id": "51c06e84-144b-4700-934b-4bb9bf55f059",
+      "titulo": "teste",
+      "descricao": "teste",
+      "criadaEm": "2025-04-17T18:47:39.162Z"
     }
   ],
   "sessoes": [
@@ -73,6 +85,20 @@
       "pautaId": "50515621-17e4-4731-880e-ec4ee5618fba",
       "abertaEm": "2025-04-08T12:49:49.663Z",
       "encerraEm": "2025-04-08T12:50:49.663Z"
+    },
+    {
+      "id": "1a36ca32-bf4c-4efc-9014-a6a00e8b2397",
+      "pautaId": "edb3ea24-06f8-48f8-8913-b50897e70b80",
+      "abertaEm": "2025-04-17T18:34:17.812Z",
+      "encerraEm": "2025-04-17T18:35:17.812Z",
+      "duracaoEmMinutos": 2
+    },
+    {
+      "id": "8097edb7-89b3-4d3d-8ab8-5baa71f5e628",
+      "pautaId": "51c06e84-144b-4700-934b-4bb9bf55f059",
+      "abertaEm": "2025-04-17T18:47:47.688Z",
+      "encerraEm": "2025-04-17T18:52:47.688Z",
+      "duracaoEmMinutos": 2
     }
   ],
   "votos": [
@@ -123,6 +149,34 @@
       "pautaId": "50515621-17e4-4731-880e-ec4ee5618fba",
       "cpf": "13066062414",
       "voto": "SIM",
+      "associadoId": ""
+    },
+    {
+      "id": "9d0b7c95-4ab9-43c8-9ec5-114002b0b7a1",
+      "pautaId": "edb3ea24-06f8-48f8-8913-b50897e70b80",
+      "cpf": "13066062414",
+      "voto": "NAO",
+      "associadoId": ""
+    },
+    {
+      "id": "e506dfb6-3b2e-43fa-bc40-6e4a7c599406",
+      "pautaId": "51c06e84-144b-4700-934b-4bb9bf55f059",
+      "cpf": "13066062414",
+      "voto": "SIM",
+      "associadoId": ""
+    },
+    {
+      "id": "cc075fb2-ca2c-4dc8-b64e-80824df262df",
+      "pautaId": "51c06e84-144b-4700-934b-4bb9bf55f059",
+      "cpf": "660.179.620-43",
+      "voto": "NAO",
+      "associadoId": ""
+    },
+    {
+      "id": "cd0f0c98-49f4-4a23-9608-feb1e4139929",
+      "pautaId": "51c06e84-144b-4700-934b-4bb9bf55f059",
+      "cpf": "328.589.170-00",
+      "voto": "NAO",
       "associadoId": ""
     }
   ]

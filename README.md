@@ -41,5 +41,4 @@ curl --location '<http://localhost:3000/api/voto>' \
 
 - Ver Resultado
 
-
 curl --location '<http://localhost:3000/api/pauta/c3ffedbe-be53-4a8c-88d2-053e0a3a1032/resultado>'
